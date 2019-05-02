@@ -812,7 +812,7 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
   margin: 0 0 20px 0;
   font-weight: 600;
-  text-shadow: 3px 3px 2px #00000080;
+  text-shadow: 2px 2px 25px #000;
 }
 #fh5co-home .text-inner h2 {
   font-size: 40px;
@@ -820,7 +820,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   color: white;
   margin: 0;
-  text-shadow: 3px 3px 2px #00000080;
+  text-shadow: 2px 2px 25px #000;
 }
 
 .slant {
@@ -858,7 +858,7 @@ h1, h2, h3, h4, h5, h6 {
     color: white;
     margin: 0px 0px 20px 0px;
     font-weight: 600;
-    text-shadow: 3px 3px 2px #00000080;
+    text-shadow: 2px 2px 25px #000;
   }
   #fh5co-home .text-inner h2 {
     font-size: 30px;
@@ -866,7 +866,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 400;
     color: white;
     margin: 0;
-    text-shadow: 3px 3px 2px #00000080;
+    text-shadow: 2px 2px 25px #000;
   }
   .icontab {
     width: 50%;
