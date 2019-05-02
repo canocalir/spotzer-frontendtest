@@ -531,7 +531,7 @@ h1, h2, h3, h4, h5, h6 {
     fill: rgb(170,42,43);
     height: auto;
     width: 60px;
-    margin-bottom: 450px;
+    margin-bottom: 17%;
     left: 43%;
     bottom: 0;
     /*animation-name: scroll;
@@ -785,6 +785,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100vw;
   color: #fff;
   overflow: hidden;
+  height: 100vh;
 }
 
 }
