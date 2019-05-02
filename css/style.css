@@ -531,7 +531,7 @@ h1, h2, h3, h4, h5, h6 {
     fill: rgb(170,42,43);
     height: auto;
     width: 60px;
-    /*margin-bottom: 450px;*/
+    margin-bottom: 450px;
     left: 43%;
     bottom: 0;
     /*animation-name: scroll;
@@ -788,9 +788,6 @@ h1, h2, h3, h4, h5, h6 {
   
 }
 
-#fh5co-home, #fh5co-home .text-wrap {
-  height: 850px;
-}
 
 }
 
@@ -858,12 +855,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2em;
 }
 @media screen and (max-width: 768px) {
-
-  #fh5co-home .text-inner {
-    text-align: right;
-    padding-top: 300px;
-}
-  
   #fh5co-home .text-inner h1 {
     font-size: 60px;
     color: white;
